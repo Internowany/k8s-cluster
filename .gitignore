@@ -1,0 +1,4 @@
+.terraform
+aws-support-tools
+.terraform.lock
+.terraform.lock.hcl
